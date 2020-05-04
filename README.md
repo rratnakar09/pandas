@@ -11,5 +11,5 @@ This folder contains all the python notebook realated to time series data analyi
   <li>Timezone Handling</li>
   <li>Shifting and Lagging</li>
 </ol>  
-## Resource:
+## Resource:</br>
 Link: "https://www.youtube.com/playlist?list=PLeo1K3hjS3uvMADnFjV1yg6E5nVU4kOob"
